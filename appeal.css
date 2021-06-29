@@ -1,0 +1,191 @@
+img{
+	border:1px solid black;
+}
+
+body{
+	margin-left:10%;
+	margin-right:10%;
+	margin-bottom:10%;
+	background-color:#f4ead0;
+	text-align:center;
+}
+
+
+h1{
+	background-color:#8c4066;
+	border-radius: 10px;
+	padding:20px;
+	border:2px solid #7f3a5c;
+
+}
+
+body h2{
+
+	border-radius: 25px;
+  	border: 2px solid #ce9b6f;
+  	padding: 20px;
+  	height:auto;
+  	width:auto;
+  	vertical-align: middle;
+
+	
+	background-color:#dca87b;
+	color:white;
+}
+
+.intro{
+	background-color:#ff726f;
+	border-radius:10px;
+	padding:0px 20px 5px;
+}
+
+.history{
+	background-color:#ce7b6f;
+	border-radius:10px;
+	padding:0px 20px 5px;
+}
+
+.eventText{
+	background-color:#cf7070;
+	border-radius:10px;
+	padding:0px 20px 5px;
+}
+
+.header{
+	text-align:center;
+	background-color:white;
+	width:auto;
+}
+.analysis{
+	background-color:#95A1C8;
+	border-radius:10px;
+	padding:0px 20px 5px;
+}
+
+.anaylsisTag h2{
+	text-align: center;
+}
+
+
+.influencePicswCaptions {
+	text-align: center;
+	column-gap: 5px; 
+    
+	text-decoration:bold;
+}
+
+.recap{
+	border-radius:10px;
+	padding:0px 20px 5px;
+	background-color:#d9d0de;
+}
+
+.manan{
+	border-radius:10px;
+	padding:0px 20px 5px;
+	background-color:#bc8DA0;
+}
+
+
+
+
+
+
+.ahmedabad{
+	width:100%;
+	height:auto;
+}
+.delhi {
+	width:100%;
+	height:auto;
+}
+
+.gandhinagar{
+	width:100%;
+	height:auto;
+}
+
+.mumbai{
+	width:100%;
+	height:auto;
+}
+
+.atlanta{
+	width:100%;
+	height:auto;
+}
+
+.chicago{
+	width:100%;
+	height:auto;
+}
+
+.houston{
+	width:100%;
+	height:auto;
+}
+
+.losAngeles{
+	width:100%;
+	height:auto;
+}
+
+.london{
+	width:100%;
+	height:auto;
+}
+
+.leicester{
+	width:100%;
+	height:auto;
+}
+
+.lisbon{
+	width:100%;
+	height:auto;
+}
+
+.antwerp{
+	width:100%;
+	height:auto;
+}
+
+.nairobi{
+	width:100%;
+	height:auto;
+}
+
+.dar-es-salaam{
+	width:100%;
+	height:auto;
+}
+
+.kampala{
+	width:100%;
+	height:auto;
+}
+
+.johannesburg{
+	width:100%;
+	height:80%;
+}
+
+.sydney{
+	width:100%;
+	height:auto;
+}
+
+.auckland{
+	width:100%;
+	height:auto;
+}
+
+.singapore{
+	width:100%;
+	height:auto;
+}
+
+.hongKong{
+	width:100%;
+	height:auto;
+}
